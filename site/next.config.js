@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported applications.',
+    name: 'Dotennin's kasm registry',
+    description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/list.json',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://dotennin.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/dotennin/kasm-registry/issues',
     schema: '1.0',
   },
   reactStrictMode: true,
