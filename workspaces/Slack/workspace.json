@@ -1,0 +1,27 @@
+{
+  "friendly_name": "Slack",
+  "image_src": "slack.svg",
+  "description": "Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.",
+  "name": "kasmweb/slack:develop",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Productivity",
+    "Chat",
+    "Communication"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x",
+    "1.15.x"
+  ],
+  "uncompressed_size_mb": 3370
+}
